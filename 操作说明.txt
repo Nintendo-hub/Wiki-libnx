@@ -1,0 +1,3 @@
+//预览网站
+hexo server  //可以简写成 hexo s
+
